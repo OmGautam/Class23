@@ -1,2 +1,2 @@
-# Class23
-In this class I learned how to use classes.
+# p5.play-boilerplate
+Boiler plate for p5.play
